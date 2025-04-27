@@ -1,0 +1,14 @@
+2025-04-26 06:15:14,558 - system - INFO - Session created for +8801619260435
+2025-04-26 06:20:47,589 - system - INFO - Created new session
+2025-04-26 06:23:32,031 - system - INFO - Session created for +8801602914905
+2025-04-26 19:32:13,968 - system - INFO - Session created for +8801755151476
+2025-04-26 19:34:53,521 - system - INFO - Session created for +8801305197892
+2025-04-27 07:31:47,737 - system - INFO - OTP found in history for 8801755151476: 89546
+2025-04-27 07:42:14,488 - system - INFO - NEW OTP received for 8801619260435: 35325
+2025-04-27 08:18:37,133 - system - INFO - [8801602914905] Message sent to daymondroy
+2025-04-27 08:18:37,163 - system - INFO - [8801755151476] Message sent to daymondroy
+2025-04-27 08:18:37,195 - system - INFO - [8801305197892] Message sent to daymondroy
+2025-04-27 08:18:37,323 - system - INFO - [8801619260435] Message sent to daymondroy
+2025-04-27 08:32:43,308 - system - ERROR - Leave error (MinersClubOfficial): type object 'AntiBan' has no attribute 'random_action_delay'
+2025-04-27 08:35:53,770 - system - ERROR - Leave error (MinersClubOfficial): type object 'AntiBan' has no attribute 'random_action_delay'
+2025-04-27 08:36:26,277 - system - INFO - Successfully left: MinersClubOfficial
